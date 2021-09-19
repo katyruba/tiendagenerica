@@ -1,2 +1,2 @@
 # tiendagenerica
-Facturacion y registro de vventas de una tienda generica
+Facturacion y registro de ventas de una tienda generica
