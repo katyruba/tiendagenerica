@@ -1,2 +1,2 @@
-# tiendagenerica
+# tiendagenericaFrondEnd
 Facturacion y registro de ventas de una tienda generica
